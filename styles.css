@@ -51,8 +51,9 @@
 }
 
 .left h1 {
-    font-size: 2.5em;
+    font-size: 2.2em;
     padding-bottom: 2rem;
+    width: 100%;
     font-weight: var(--fw-bold);
 }
 
@@ -64,7 +65,7 @@
     font-size: 15px;
     color: var(--neutral-col-trans-white);
     line-height: 1.8;
-    padding-bottom: 6rem;
+    padding-bottom: 4rem;
     font-weight: var(--fw-medium);
     width: 90%;
 }
